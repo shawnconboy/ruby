@@ -29,11 +29,12 @@
 
 # ('a'..'d')
 
-for i in 0..5
-    puts "#{i} zombies incoming"
-end
+# for i in 0..5
+#     puts "#{i} zombies incoming"
+# end
 
 
-5.times do
-    puts 'hello world'
-end
+# 5.times do
+#     puts 'hello world'
+# end
+
