@@ -38,4 +38,25 @@
 #     puts 'hello world'
 # end
 
-/
+
+
+
+
+#Arrays
+
+# Array.new
+
+
+# str_array = ["This", "is", "a", "small", "array"]
+
+# str_array.first         #=> "This"
+# str_array.first(2)      #=> ["This", "is"]
+# str_array.last(2)       #=> ["small", "array"]
+
+# puts str_array.first(2)
+
+num_array = [1,2,3,4]
+
+num_array.push(5,6,7)
+
+
